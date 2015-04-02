@@ -1,0 +1,23 @@
+{
+  "name": "FamilyFued",
+  "version": "1.0.0",
+  "description": "This is the game designed for CMPE202 class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaibhavabhor/FamilyFued"
+  },
+  "author": "Prof Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavabhor/FamilyFued/issues"
+  },
+  "homepage": "https://github.com/vaibhavabhor/FamilyFued",
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongodb": "^2.0.25"
+  }
+}
